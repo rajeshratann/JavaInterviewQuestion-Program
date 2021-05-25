@@ -1,0 +1,38 @@
+Java Interview Question.
+1.	How to serialize singleton object?
+2.	How to solve concurrent modification exception?
+3.	What is difference between fail safe and fail fast?
+4.	How to create customize exception?
+5.	Big notation of all collection?
+6.	Can we extends null pointer exception?
+7.	How many immutable class in java?
+8.	How to save String using new Keywords?
+9.	When we get stackoverflow exception?
+10.	There is way to create method in interface but not implements in class.
+
+
+
+
+Spring Interview Question.
+1.	What new feature in spring 4.?
+2.	Types of scope in spring.
+3.	Beans life cycle.
+4.	What get bean scope if we pass a class A which scope is singleton and Class B which scope is prototype.
+5.	What is stereotype annotation in spring?
+6.	
+
+
+Hibernate Interview Question.
+1.	Which annotation used in Hibernate?
+2.	What is use of dilect class in Hibernate?
+3.	Create query in hibernate
+
+
+Design Pattern and Algorithms.
+1.	What is factory methods design pattern?
+2.	What is prototype design pattern?
+3.	How to create a builder design pattern?
+4.	How many types of design pattern?
+5.	Abstract factory design pattern?
+
+ 
